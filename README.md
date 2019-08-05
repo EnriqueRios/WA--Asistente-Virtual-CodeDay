@@ -156,12 +156,12 @@ Lo descomprimimos en nuestra PC y luego abrimos nuestro IDE de trabajo para modi
 
 ***CAMBIOS EN EL CODIGO***
 
--Debemos sustituir el archivo 'main.js' ubicado en 'server/routers' por el archivo main.js que dejamos en este repositorio.
--Agregamos en la dirección 'server/services' el archivo 'Discovery.js'
--Sustituimos en ese archivo las lineas 2,3 y 8 por nuestras credenciales: Environment ID, Collection ID y Apikey
--Agregamos en el archivo 'package.json' la siguiente linea '"ibm-watson": "^4.2.1",' entre la linea 30 y 31.
+-Debemos sustituir el archivo 'main.js' ubicado en 'server/routers' por el archivo main.js que dejamos en este repositorio.<br>
+-Agregamos en la dirección 'server/services' el archivo 'Discovery.js'<br>
+-Sustituimos en ese archivo las lineas 2,3 y 8 por nuestras credenciales: Environment ID, Collection ID y Apikey<br>
+-Agregamos en el archivo 'package.json' la siguiente linea '"ibm-watson": "^4.2.1",' entre la linea 30 y 31.<br>
 
-Prontos todos estos cambios abrimos una terminal situados en la carpeta que descomprimimos y corremos 'npm install' y luego 'npm start'. 
+Prontos todos estos cambios abrimos una terminal situados en la carpeta que descomprimimos y corremos 'npm install' y luego 'npm start'. <br>
 
 Abrimos un navegador y vamos a la siguiente URL: 'localhost:3000' deberia estar desplegada nuestra APP
 
