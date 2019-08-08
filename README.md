@@ -20,12 +20,6 @@ En este Workshop crearemos un asistente virtual capaz de responder preguntas ace
 Tener una cuenta en IBM Cloud. <a href="https://cloud.ibm.com/registration">Link para registrarse en IBM Cloud</a>
 Tener instalado Node.js y un IDE de trabajo (preferible Visual Studio Code)
 
-# Arquitectura
-
-<p align="center">
-  <img src="images/Arquitectura.jpg" width="500">
-</p>
-
 # Watson Assistant Skill
 
 Bueno para comenzar, el primer paso es crear una instancia del servicio Watson Assistant. Para esto, nos dirigimos al catalogo de IBM Cloud, en las categorias seleccionamos Inteligencia Artificial (AI) y luego buscamos el servicio nombrado anteriormente
