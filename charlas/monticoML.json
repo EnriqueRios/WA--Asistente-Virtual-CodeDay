@@ -1,0 +1,16 @@
+{
+  "titulo": "¿La inteligencia artificial es realmente justa y transparente?",
+  "hora": "20:45",
+  "speakers": [
+    {
+      "persona": "Santiago Montico"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/sesgos-en-machine-learning-tickets-68071651141",
+  "descripcion": "A través de la utilización de la plataforma Watson OpenScale y Watson Studio vamos a plantear un escenario donde analizaremos algunos aspectos que transcienden lo tecnológico como son la explicabilidad y el sesgo y veremos de forma practica que capacidades tienen las plataforma para ayudarnos a responder ciertas preguntas. Difficulty: Media"
+}

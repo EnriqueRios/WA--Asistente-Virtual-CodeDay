@@ -1,0 +1,19 @@
+{
+  "titulo": "Qué dicen las redes de los candidatos?",
+  "hora": "20:45",
+  "speakers": [
+    {
+      "persona": "Diego Verdier"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    },
+    {
+      "nombre": "Analytics"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/que-dicen-las-redes-de-los-candidatos-tickets-68045537033",
+  "descripcion": "Al asistir a este hands-on, te vas a poder llevar los conocimientos suficientes para que en 30 minutos puedas crear, entrenar y testear un modelo de Watson que interprete el lenguaje natural y clasifique texto en diferentes categorías, sin tener ninguna experiencia en machine learning previa.En particular en este workshop, lo que haremos será analizar un conjunto de tweets que mencionan a los candidatos presidenciales y poder clasificar cada uno de estos en diferentes categorías. Usaremos tres servicios de Watson diferentes para clasificar texto: Watson Natural Language Understanding, Watson Natural Language Classifier y Watson Assistant.*NO SE REQUIERE EXPERIENCIA PREVIA EN MACHINE LEARNING.*"
+}

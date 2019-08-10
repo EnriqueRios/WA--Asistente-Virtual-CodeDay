@@ -1,0 +1,19 @@
+{
+  "titulo": "IBM Blockchain Platform:  Aprenda a crear y ejecutar redes de blockchain de forma local y en la nube",
+  "hora": "17:45",
+  "speakers": [
+    {
+      "persona": "Jose Panizza"
+    },
+    {
+      "persona": "Adolfo Scalabrini"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Blockchain"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/ibm-blockchain-platform-aprenda-a-crear-y-ejecutar-redes-de-blockchain-de-forma-local-y-en-la-nube-tickets-68052503871",
+  "descripcion": "Los asistentes van a implementar distintas redes de blockchain, la primera de ellas partiendo de cero y las otras a partir de casos de uso ya elaborados. Para lograrlo, también se vera una introducción a la tecnología y las herramientas que ofrece IBM para su desarrollo.  Dificultad: Medio"
+}

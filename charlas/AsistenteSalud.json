@@ -1,0 +1,16 @@
+{
+  "titulo": "Building a virtual assistant for health with Watson and ML",
+  "hora": "19:15",
+  "speakers": [
+    {
+      "persona": "Sergio Gama"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/building-a-virtual-assistant-for-health-with-watson-and-machine-learning-tickets-68044696519",
+  "descripcion": "Description: In this workshop the attendance will develop a virtual assistant for health, which with some information from user will predict possibility of heart attack. The solution will use Watson Assistant and model created on Modeller Flow on Watson Studio."
+}

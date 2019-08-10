@@ -1,0 +1,23 @@
+{
+  "titulo": "CONFERENCIA: INTRODUCCIÓN A DEVOPS UTILIZANDO CI/CD PIPELINES EN RED HAT OPENSHIFT",
+  "hora": "18:15",
+  "speakers": [
+    {
+      "persona": "Jeronimo Ginzburg,"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "DevOps"
+    },
+    {
+      "nombre": "Contenedores"
+    },
+    {
+      "nombre": "RedHat"
+    }
+	
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "Introducción a DevOps utilizando CL/CD Pipelines en Red Hat OpenShift"
+}

@@ -1,0 +1,16 @@
+{
+  "titulo": "CONFERENCIA: La velocidad de una startup ..... escalando a nivel global.",
+  "hora": "18:45",
+  "speakers": [
+    {
+      "persona": "Marcelo Ricciardi"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Cloud"
+    }
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "IBM Garage Method conjuga las mejores prácticas, técnicas y herramientas, junto con la experiencia de IBM acompañando a sus clientes en el viaje de transformación digital hacia empresas cognitivas, sobre plataformas multi nube híbrida.Es el método utilizado por IBM para las experiencias \"IBM Garage\", en donde pequeños equipos de clientes y expertos de IBM, desarrollan en un corto tiempo, proyectos innovadores con alto valor para el negocio, enfocados en las necesidades de los clientes, aprovechando todos los recursos y servicios de las plataformas de nube, y sentando las bases para continuar el camino de transformación digital de toda la empresa..... \"La velocidad de una startup ..... escalando a nivel global\""
+}

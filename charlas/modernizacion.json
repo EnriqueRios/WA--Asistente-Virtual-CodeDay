@@ -1,0 +1,19 @@
+{
+  "titulo": "Modernización de aplicaciones usando Kubernetes y microservicios",
+  "hora": "19:15",
+  "speakers": [
+    {
+      "persona": "Jose Panizza"
+    },
+    {
+      "persona": "Gonzalo Rodriguez"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Contenedores"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/modernizacion-de-aplicaciones-usando-kubernetes-y-microservicios-tickets-68046347457",
+  "descripcion": "Aprenderás las ventajas que tiene la tecnología de contenedores para el despliegue de aplicaciones usando Docker y Kubernetes. A su vez se introducirá la arquitectura de microservicios y los beneficios que podría aportar a una aplicación. Pondremos en practica estos conceptos al migrar una aplicación monolítica a un cluster de Kubernetes. Dificultad: Medio"
+}

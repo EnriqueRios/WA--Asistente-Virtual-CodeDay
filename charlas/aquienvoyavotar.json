@@ -1,0 +1,22 @@
+{
+  "titulo": "¿Realmente estoy seguro de a quien voy a votar? ",
+  "hora": "16:00",
+  "speakers": [
+    {
+      "persona": "Diego Verdier"
+    },
+    {
+      "persona": "Gonzalo Rodriguez"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    },
+    {
+      "nombre": "Analytics"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/realmente-estoy-seguro-de-a-quien-voy-a-votar-tickets-68062896957",
+  "descripcion": "El asistente va a poder, usando Watson Studio, crear y testear un modelo de Machine Learning capaz de, en en base a un conjunto de datos, predecir una variable objetivo en futuras entradas. Esto, sin tener experiencia en machine learning probando una nueva tecnología llamada AutoAI que tiene la capacidad para analizar los datos por nosotros.En particular, en este hands-on nuestro set de datos serán las respuestas a la encuesta presentada en aquienvoto.uy a partir del cual, usando Watson Studio, AutoAI y Watson Machine Learning, generaremos un modelo que en base a las respuestas a las preguntas nos sugiera un candidato. Ademas, se hará un análisis de los datos en función de las repuestas y el candidato de su preferencia.  Dificultad: Medio"
+}

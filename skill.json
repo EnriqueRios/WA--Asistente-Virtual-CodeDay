@@ -1,0 +1,2178 @@
+{
+  "name": "CODE-DAY-BOT",
+  "intents": [
+    {
+      "intent": "speakers",
+      "examples": [
+        {
+          "text": "quienes son los speakers"
+        },
+        {
+          "text": "quienes son los habladores"
+        },
+        {
+          "text": "spekers"
+        },
+        {
+          "text": "lista de habladores"
+        },
+        {
+          "text": "speakers"
+        },
+        {
+          "text": "quienes son los oradores"
+        },
+        {
+          "text": "dame la lista de speakers"
+        },
+        {
+          "text": "quiero ver los oradores"
+        },
+        {
+          "text": "que oradores van a ver"
+        },
+        {
+          "text": "la lista de oradores"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "que buen funcionamiento que tenes"
+        },
+        {
+          "text": "bonito"
+        },
+        {
+          "text": "sos increible"
+        },
+        {
+          "text": "bot lindo"
+        },
+        {
+          "text": "sos un bot precioso"
+        },
+        {
+          "text": "Siempre resuelves mis problemas, gracias."
+        },
+        {
+          "text": "Siempre puedo contar con su ayuda."
+        },
+        {
+          "text": "Perfecto!"
+        },
+        {
+          "text": "Muy bien!"
+        },
+        {
+          "text": "Muy amable!"
+        },
+        {
+          "text": "Muchísimas gracias por tu ayuda!"
+        },
+        {
+          "text": "Me salvaste!"
+        },
+        {
+          "text": "Me gustaría llenar la encuesta de satisfacción."
+        },
+        {
+          "text": "Me alegraste el día."
+        },
+        {
+          "text": "pa boludo sos un genio"
+        },
+        {
+          "text": "Gracias por todo!"
+        },
+        {
+          "text": "Gracias."
+        },
+        {
+          "text": "Excelente!"
+        },
+        {
+          "text": "Es un placer trabajar contingo."
+        },
+        {
+          "text": "Estoy muy contento con su servicio."
+        },
+        {
+          "text": "Eres muy profesional."
+        },
+        {
+          "text": "Espero que me atiendas también la próxima vez."
+        },
+        {
+          "text": "Eres el mejor."
+        },
+        {
+          "text": "El mejor soporte."
+        },
+        {
+          "text": "El agente era muy amable y resolvió mi problema inmediatamente."
+        },
+        {
+          "text": "google es mucho peor que vos hermano"
+        },
+        {
+          "text": "google es mucho pero mucho peor que vos"
+        },
+        {
+          "text": "Google es peor que vos"
+        },
+        {
+          "text": "hermoso"
+        },
+        {
+          "text": "precioso"
+        },
+        {
+          "text": "me encanta como funcionas"
+        }
+      ],
+      "description": "Expresar un sentimiento positivo o gratitud."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "¿Con qué categorías de problemas me puedes ayudar?"
+        },
+        {
+          "text": "¿Cuáles son las opciones disponibles si estoy usando agente virtual?"
+        },
+        {
+          "text": "¿Podría darme una lista de temas con las que puede ayudarme?"
+        },
+        {
+          "text": "¿Podría esperar un momento por favor?"
+        },
+        {
+          "text": "¿Podría esperar un segundo por favor?"
+        },
+        {
+          "text": "¿Puedes ayudarme en cómo iniciar sesión en Virtual Agent?"
+        },
+        {
+          "text": "¿Puedes darme una lista de temas de cosas con las que puedes ayudarme?"
+        },
+        {
+          "text": "¿Puedes esperar un poquito?"
+        },
+        {
+          "text": "¿Puedo tener una lista de temas disponibles, con los que puedes ayudarme?"
+        },
+        {
+          "text": "¿Qué pasa si quiero cambiar la respuesta de texto para una intención?"
+        },
+        {
+          "text": "¿Qué tipo de información y problemas puedes resolver para mí?"
+        },
+        {
+          "text": "¿Qué tipo de preguntas puedes contestar? ¿Y cuáles son tus limitaciones de respuestas?"
+        },
+        {
+          "text": "Tengo algunas preguntas y necesito ayuda, ¿puedo recibir ayuda?"
+        },
+        {
+          "text": "Tengo algunos problemas y quiero algo de información sobre cómo conseguir ayuda."
+        },
+        {
+          "text": "Tengo varios problemas y necesito saber con qué me puede ayudar."
+        },
+        {
+          "text": "hola watson en que me podes ayudar"
+        },
+        {
+          "text": "algo mas que puedas hacer"
+        },
+        {
+          "text": "¿Qué clase de cosas haces?"
+        },
+        {
+          "text": "¿Qué tipo de cosas puede hacer por mí?"
+        },
+        {
+          "text": "¿Qué hace un agente digital? ¿Para qué te uso?"
+        },
+        {
+          "text": "¿Cómo funciona el filtro en la pantalla de capacidades?"
+        },
+        {
+          "text": "¿Con qué categorías de problemas están capaz de ayudarme?"
+        }
+      ],
+      "description": "Solicitar capacidades del bot."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Chau"
+        },
+        {
+          "text": "Gracias, podemos cerrar esta conversación."
+        },
+        {
+          "text": "OK, eso es todo lo que necesito saber."
+        },
+        {
+          "text": "¡Salud!"
+        },
+        {
+          "text": "Un saludo."
+        },
+        {
+          "text": "Qué tengas una buena tarde."
+        },
+        {
+          "text": "Usted es maravilloso. Gracias por su ayuda."
+        },
+        {
+          "text": "Vaya usted con Diós!"
+        },
+        {
+          "text": "Nos vemos."
+        },
+        {
+          "text": "No tengo más dudas, gracias por tu ayuda."
+        },
+        {
+          "text": "Qué te lo pases bien."
+        },
+        {
+          "text": "Ya me voy."
+        },
+        {
+          "text": "Gracias no necesito más ayuda."
+        },
+        {
+          "text": "Fue agradable hablar contigo."
+        },
+        {
+          "text": "Eso ha sido todo lo que me hacía falta."
+        },
+        {
+          "text": "Cuídate!"
+        },
+        {
+          "text": "Buenas tardes."
+        },
+        {
+          "text": "Gracias por tu ayuda, hasta luego."
+        },
+        {
+          "text": "Hablaremos más tarde."
+        },
+        {
+          "text": "¡Muchas gracias, adiós!"
+        },
+        {
+          "text": "Hablamos luego."
+        }
+      ],
+      "description": "Fin de la conversacion."
+    },
+    {
+      "intent": "Evento",
+      "examples": [
+        {
+          "text": "de que trata el evento"
+        },
+        {
+          "text": "de que dia a que dia es el evento"
+        },
+        {
+          "text": "algo sobre el Code Day"
+        },
+        {
+          "text": "informacion sobre el Code Day"
+        },
+        {
+          "text": "contame algo sobre el evento en particular"
+        },
+        {
+          "text": "informacion acerca del evento"
+        },
+        {
+          "text": "cuando finaliza el evento?"
+        }
+      ],
+      "description": "Informacion sobre el evento"
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "PPuedes decirme, si eres vivo o virtual?"
+        },
+        {
+          "text": "Tu eres un agente virtual o real?"
+        },
+        {
+          "text": "Quiero saber si eres real o no"
+        },
+        {
+          "text": "Eres un agente virtual?"
+        },
+        {
+          "text": "Eres una máquina o una persona real?"
+        },
+        {
+          "text": "Eres un operador virtual o vivo?"
+        },
+        {
+          "text": "Hablo con una máquina?"
+        },
+        {
+          "text": "Hablo con una persona?"
+        },
+        {
+          "text": "Me confirmas si hablo con un agente virtual o con un agente real?"
+        },
+        {
+          "text": "Podría hablar con un agente virtual?"
+        },
+        {
+          "text": "Preferiría hablar con un agente virutal."
+        }
+      ],
+      "description": "Preguntar si habla con un humano o un bot."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Sabes contar chistes?"
+        },
+        {
+          "text": "Qué sueles hacer para divertirte?"
+        },
+        {
+          "text": "Quiero reírme un poco, cuéntame algo divertido."
+        },
+        {
+          "text": "Puedes entretenerme?"
+        },
+        {
+          "text": "Me aburro."
+        },
+        {
+          "text": "Me gustan los chistes, cuéntame uno."
+        },
+        {
+          "text": "Me gustaría que me diviertas."
+        },
+        {
+          "text": "Te gustan los chistes?"
+        },
+        {
+          "text": "Te ha pasado algo chistoso hoy?"
+        },
+        {
+          "text": "Cuál es tu chiste favorito?"
+        },
+        {
+          "text": "Cuéntame un chiste."
+        },
+        {
+          "text": "Estoy aburrido."
+        },
+        {
+          "text": "Divierteme!"
+        },
+        {
+          "text": "Dime un chiste sarcástico."
+        },
+        {
+          "text": "Dime un chiste."
+        },
+        {
+          "text": "Dime otro chiste!"
+        },
+        {
+          "text": "Dime algo divertido."
+        },
+        {
+          "text": "Puedo jugar juegos aquí?"
+        },
+        {
+          "text": "Te gusta hacer chistes?"
+        },
+        {
+          "text": "Sorpréndeme con algo chistoso."
+        }
+      ],
+      "description": "Solicito una broma"
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "Estoy buscando una solución para mejorar mi compromiso con los clientes"
+        },
+        {
+          "text": "Dónde estás ahora mismo?"
+        },
+        {
+          "text": "Dime tu nombre completo."
+        },
+        {
+          "text": "De qué país eres?"
+        },
+        {
+          "text": "Cuántos idiomas hablas?"
+        },
+        {
+          "text": "¿Con qué tipo de robot estoy interactuando?"
+        },
+        {
+          "text": "¿Puede explicarme la diferencia entre este sistema y cualquier otro?"
+        },
+        {
+          "text": "¿Puede darme información general sobre usted?"
+        },
+        {
+          "text": "Me puedes decir como se llama la aplicación?"
+        },
+        {
+          "text": "Me gustaría configurar el bot de conversación para mi negocio."
+        },
+        {
+          "text": "¿Hablas alemán?"
+        },
+        {
+          "text": "Quiero entender cómo funcionas"
+        },
+        {
+          "text": "Quiero crear un agente virtual que hable portugués"
+        },
+        {
+          "text": "Qué color tienen tus ojos?"
+        },
+        {
+          "text": "¿Puedo hacer mis preguntas usando Siri en lugar de esta aplicación?"
+        },
+        {
+          "text": "Puedo hacerle algunas preguntas de validación de las ventas"
+        },
+        {
+          "text": "¿Cuál es su versión?"
+        },
+        {
+          "text": "Qué te gusta hacer en tu tiempo libre?"
+        },
+        {
+          "text": "Tienes algún interés?"
+        },
+        {
+          "text": "¿Eres un representante oficial de conversación?"
+        }
+      ],
+      "description": "Solicitar atributos personales genéricos."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Lo que me estás diciendo es muy frustrante."
+        },
+        {
+          "text": "pero google es mejor que vos"
+        },
+        {
+          "text": "Google es mejor que vos"
+        },
+        {
+          "text": "sos horrible"
+        },
+        {
+          "text": "andate a cagar"
+        },
+        {
+          "text": "trolito de facal"
+        },
+        {
+          "text": "tonto"
+        },
+        {
+          "text": "gil"
+        },
+        {
+          "text": "bobo"
+        },
+        {
+          "text": "dale que me agitas chupa verga"
+        },
+        {
+          "text": "sos un hdp"
+        },
+        {
+          "text": "bot pija"
+        },
+        {
+          "text": "bot de mierda"
+        },
+        {
+          "text": "hijo de mil puta"
+        },
+        {
+          "text": "hijo de puta"
+        },
+        {
+          "text": "puto"
+        },
+        {
+          "text": "chupa pija"
+        },
+        {
+          "text": "Voy a quejarme."
+        },
+        {
+          "text": "Tu comportamiento es inexcusable."
+        },
+        {
+          "text": "Nunca me has ayudado."
+        },
+        {
+          "text": "No te mereces este trabajo."
+        },
+        {
+          "text": "No puede ser!"
+        },
+        {
+          "text": "No me trates así."
+        },
+        {
+          "text": "No me lo creo."
+        },
+        {
+          "text": "No me has dicho la verdad."
+        },
+        {
+          "text": "No estoy de acuerdo."
+        },
+        {
+          "text": "Me has proporcionado la información errónea."
+        },
+        {
+          "text": "Increíble, mi problema sigue sin resolverse un mes."
+        },
+        {
+          "text": "Estoy muy decepcionado."
+        },
+        {
+          "text": "Este servicio no sirve para nada."
+        },
+        {
+          "text": "Espero no necesitar tu ayada más."
+        },
+        {
+          "text": "Eres un inútil."
+        },
+        {
+          "text": "El comportamiento del agente era inapropiado."
+        },
+        {
+          "text": "El agente era maldispuesto."
+        },
+        {
+          "text": "Cómo te atreves a tratarme de este modo?"
+        },
+        {
+          "text": "La peor experiencia que he tenido en mi vida con un agente."
+        }
+      ],
+      "description": "Expresar comentarios desfavorables."
+    },
+    {
+      "intent": "AgendaEntera",
+      "examples": [
+        {
+          "text": "hola watson dame la agenda"
+        },
+        {
+          "text": "agenda completa"
+        },
+        {
+          "text": "dame la agenda"
+        },
+        {
+          "text": "quiero ver la agenda"
+        },
+        {
+          "text": "me decis la agenda?"
+        },
+        {
+          "text": "como andas? mostrame la agenda"
+        },
+        {
+          "text": "contame de que va a hablar"
+        },
+        {
+          "text": "que conferencias hay?"
+        },
+        {
+          "text": "de que va a estar hablando"
+        },
+        {
+          "text": "charlas el dia del evento"
+        },
+        {
+          "text": "que hands on hay"
+        },
+        {
+          "text": "a que hands on puedo ir"
+        },
+        {
+          "text": "que hands on puedo ver"
+        },
+        {
+          "text": "que workshops van a  haber"
+        },
+        {
+          "text": "me interesa el tema cloud"
+        },
+        {
+          "text": "cuál es el próximo hands on?"
+        },
+        {
+          "text": "en que charla hablan de iot?"
+        },
+        {
+          "text": "como estas? mostrame las charlas"
+        },
+        {
+          "text": "hola bot mostrame la agenda"
+        },
+        {
+          "text": "hola bot como estas? mostrame las charlas"
+        },
+        {
+          "text": "que se dio ayer"
+        },
+        {
+          "text": "que puedo ver"
+        },
+        {
+          "text": "que se muestra"
+        },
+        {
+          "text": "que se dicta"
+        },
+        {
+          "text": "que hay hoy"
+        },
+        {
+          "text": "quiero ver las charlas"
+        },
+        {
+          "text": "dame las charlas"
+        },
+        {
+          "text": "para saber sobre las charlas"
+        },
+        {
+          "text": "alguna charla"
+        },
+        {
+          "text": "charlas"
+        },
+        {
+          "text": "consulto las agendas"
+        },
+        {
+          "text": "agendas completa"
+        },
+        {
+          "text": "me gustaria ver la agenda"
+        },
+        {
+          "text": "la agenda por favor"
+        }
+      ],
+      "description": "pregunta por la agenda"
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "¿Estás ahí?"
+        },
+        {
+          "text": "¡Estoy feliz de poder hablar contigo por primera vez!"
+        },
+        {
+          "text": "¿Cómo está? / Oye, ¿Qué tal?"
+        },
+        {
+          "text": "Buenos días, podemos empezar la conversación?"
+        },
+        {
+          "text": "Buenas noches."
+        },
+        {
+          "text": "Hola ¿puedes ayudarme?"
+        },
+        {
+          "text": "Hola, quien me puede atender?"
+        },
+        {
+          "text": "Hola, Señor."
+        },
+        {
+          "text": "Quién eres?"
+        },
+        {
+          "text": "Sigues aquí?"
+        },
+        {
+          "text": "Tienes un momento, por favor?"
+        },
+        {
+          "text": "holaaa"
+        },
+        {
+          "text": "que andas"
+        },
+        {
+          "text": "holaa"
+        },
+        {
+          "text": "holaaaaa"
+        },
+        {
+          "text": "holaaaa"
+        },
+        {
+          "text": "todo bien"
+        },
+        {
+          "text": "holi"
+        },
+        {
+          "text": "Hola, Cómo estás el día de hoy?"
+        },
+        {
+          "text": "Hola, ¿Cómo estás?"
+        },
+        {
+          "text": "Hola, ¿Cómo te sientes?"
+        },
+        {
+          "text": "Hola, Cómo va todo?"
+        },
+        {
+          "text": "Hola, podrías responder mi pregunta?"
+        },
+        {
+          "text": "Hola, amigo mío."
+        },
+        {
+          "text": "Hey, ¿cómo te va?"
+        }
+      ],
+      "description": "Saluda al bot."
+    },
+    {
+      "intent": "charla_antigua",
+      "examples": [
+        {
+          "text": "estoy a tiempo de ir al workshop?"
+        },
+        {
+          "text": "quiero saber si la charla ya paso?"
+        },
+        {
+          "text": "llego tarde a la charla?"
+        },
+        {
+          "text": "llego tarde para el workshop"
+        },
+        {
+          "text": "que charlas estoy a tiempo de ir?"
+        },
+        {
+          "text": "llego a la charla"
+        },
+        {
+          "text": "el hands on ya paso?"
+        },
+        {
+          "text": "estoy a tiempo de ir al hands on"
+        },
+        {
+          "text": "que hands on estoy a tiempo de ir"
+        },
+        {
+          "text": "estoy a tiempo de ir a la charla?"
+        },
+        {
+          "text": "esta charla ya paso?"
+        },
+        {
+          "text": "el workshop ya paso?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Quisiera asegurarme que mis detalles de tarjeta están seguros, ¿puedes hacerlo?"
+        },
+        {
+          "text": "¿Qué medidas de seguridad están usadas para asegurar que este chat es seguro?"
+        },
+        {
+          "text": "Qué sistemas de protección usan contra los hackers?"
+        },
+        {
+          "text": "Qué tipos de medidas se han tomado para proteger esta conversación?"
+        },
+        {
+          "text": "¿Cómo puede asegurar que nuestra conversación por chat es confidencial?"
+        },
+        {
+          "text": "¿Cómo saber que puedo confiar en la información obtenida en esta chat sesión?"
+        },
+        {
+          "text": "Cómo sé que este chat no es una estafa?"
+        },
+        {
+          "text": "¿Dónde puedo encontrar su certificado de seguridad?"
+        },
+        {
+          "text": "Es esto un chat oficial?"
+        },
+        {
+          "text": "¿Hay alguna razón para desconfiar de este chat?"
+        },
+        {
+          "text": "¿Cómo puedo garantizar la protección de la información de los consumidores?"
+        },
+        {
+          "text": "¿Cómo reconzco si su página web es confiable?"
+        },
+        {
+          "text": "Hay algunas precauciones contra los hackers?"
+        },
+        {
+          "text": "Hola El usuario desea garantías de que cualquier información que proporciona en la conversación está protegida y segura."
+        },
+        {
+          "text": "¿Mi informacion personal de pago es manejada seguramente?"
+        },
+        {
+          "text": "¿Puede confirmarme si esa red es segura?"
+        },
+        {
+          "text": "Puede demostrarme que esta conversación es segura?"
+        },
+        {
+          "text": "¿Pueden asegurarme que toda la información de mi cuenta está protegida?"
+        },
+        {
+          "text": "¿Puedo confiar en todo lo que leo en este chat?"
+        },
+        {
+          "text": "¿Puedo estar seguro que mi información de tarjeta guardada está cifrada y asegurada?"
+        }
+      ],
+      "description": "Expresar preocupaciones sobre la seguridad del bot."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Por favor ayudame a contactar a un agente."
+        },
+        {
+          "text": "Dejame hablar con un agente."
+        },
+        {
+          "text": "Creo que es mejor hablar con una persona."
+        },
+        {
+          "text": "Cómo puedo contactar un ser vivo?"
+        },
+        {
+          "text": "Quiero que me pongan en contacto con un número diferente para las cosas relacionadas con esta cuenta."
+        },
+        {
+          "text": "Puedo hablar con una persona?"
+        },
+        {
+          "text": "Deseo hablar con un agente."
+        },
+        {
+          "text": "Buenos días podría hablar por teléfono contigo?"
+        },
+        {
+          "text": "Hola, me conectas con el soporte tecnico?"
+        },
+        {
+          "text": "Transferirme a un agente por favor."
+        },
+        {
+          "text": "¿Puedo tener información de contacto para hablar con un agente real?"
+        },
+        {
+          "text": "¿Puedes ayudarme a conectar con un agente?"
+        },
+        {
+          "text": "¿Puede enviarme un número telefónico para que hable con un representante humano de ventas?"
+        },
+        {
+          "text": "Podrías ponerme en contacto con un operador?"
+        },
+        {
+          "text": "Perfecto. Ahora, me gustaría hablar con un agente sobre algunos cargos."
+        },
+        {
+          "text": "Pasame con un agente experto!"
+        },
+        {
+          "text": "Necesito hablar directamente con un agente."
+        },
+        {
+          "text": "Necesito hablar con una persona real, en lugar de un sistema automatizado de respuestas, por favor."
+        },
+        {
+          "text": "Nada contra maquinas, pero ponme con un operador."
+        },
+        {
+          "text": "Mi factura está incorrecta, quiero hablar con un representante."
+        },
+        {
+          "text": "Llama a un representante."
+        },
+        {
+          "text": "Hola, ¿puedes transferir mi llamada a un agente humano? Deseo hablar directamente con un ser humano."
+        },
+        {
+          "text": "Hola, ¿podría transferirme al agente vivo, por favor?"
+        },
+        {
+          "text": "Hola! Estaba hablando con un agente y se me ha quedado colgado el chat y he perdido la conexión."
+        },
+        {
+          "text": "¿Hay un número de servicio al cliente que pueda usar para contactar a la compañía telefónica y hablar directamente con un agente?"
+        },
+        {
+          "text": "Hay algún ser vivo con cuál podría hablar?"
+        },
+        {
+          "text": "Esto es muy frustrante, quiero hablar con una persona viva y real."
+        },
+        {
+          "text": "Puedo hablar con una persona real?"
+        },
+        {
+          "text": "Ayudame a ponerme en contacto con una persona."
+        },
+        {
+          "text": "Sería posible hablar con una persona?"
+        },
+        {
+          "text": "Quiero hablar con una persona."
+        },
+        {
+          "text": "Puedes transferirme a un agente real?"
+        },
+        {
+          "text": "No quiero hablar con el agente virtual."
+        },
+        {
+          "text": "Necesito hablar con alquien vivo."
+        }
+      ],
+      "description": "Solicitar un agente humano"
+    },
+    {
+      "intent": "Recomendacion",
+      "examples": [
+        {
+          "text": "me aconsejas"
+        },
+        {
+          "text": "cual es la indicada para mi?"
+        },
+        {
+          "text": "perfecto y que charlas me aconsejas"
+        },
+        {
+          "text": "hola watson recomendame alguna charla para ver"
+        },
+        {
+          "text": "alguna charla para mi watson"
+        },
+        {
+          "text": "dale haceme un par de preguntar"
+        },
+        {
+          "text": "tirame algunas preguntas a ver"
+        },
+        {
+          "text": "recomendacion"
+        },
+        {
+          "text": "quiero que me aconsejes alguna charla"
+        },
+        {
+          "text": "Recomendame"
+        },
+        {
+          "text": "me recomendas"
+        },
+        {
+          "text": "Aconsejame"
+        },
+        {
+          "text": "a cual debo ir"
+        }
+      ],
+      "description": "Recomendar"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "nombre",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Victor Silva",
+          "synonyms": [
+            "Silva"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sebastian Vergara",
+          "synonyms": [
+            "Seba",
+            "Seba Vergara",
+            "Sebastian",
+            "Vergara"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tomas Facal",
+          "synonyms": [
+            "Tomas",
+            "Facal"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Jose Panizza",
+          "synonyms": [
+            "Jose",
+            "Panizza"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Adolfo Scalabrini",
+          "synonyms": [
+            "Ado",
+            "Ado Scalabrini",
+            "Scalabrini",
+            "Adolfo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Diego Verdier",
+          "synonyms": [
+            "Verdier",
+            "diego"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ignacio Varese Isern",
+          "synonyms": [
+            "Varese Isern",
+            "Varese",
+            "Isern"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Christopher Chancé",
+          "synonyms": [
+            "Christopher",
+            "Chance"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Gonzalo Rodriguez",
+          "synonyms": [
+            "Gonza",
+            "gonzalo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sergio Gama",
+          "synonyms": [
+            "Gama"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Victor Shinya",
+          "synonyms": [
+            "Shinya"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lee Zhang",
+          "synonyms": [
+            "Zhang"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Carlos Trinidad",
+          "synonyms": [
+            "Trinidad",
+            "carlos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Juan Fajardo",
+          "synonyms": [
+            "Fajardo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Marcelo Ricciardi",
+          "synonyms": [
+            "Ricciardi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Ana Spangenberg",
+          "synonyms": [
+            "Spangenberg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Diego Súarez-Bagnasco",
+          "synonyms": [
+            "Suarez-Bagnasco",
+            "diego",
+            "Suarez"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Santiago Montico",
+          "synonyms": [
+            "Montico"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Enrique Verdes",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Jeronimo Ginzburg",
+          "synonyms": [
+            "Ginzburg"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Remko de Knikker",
+          "synonyms": [
+            "Remko",
+            "Knikker"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Alejandro Machado",
+          "synonyms": [
+            "Machado"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Lucia Ramos",
+          "synonyms": [
+            "Ramos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Manuel Cuevas",
+          "synonyms": [
+            "Cuevas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Marcelo Estape",
+          "synonyms": [
+            "Estape"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Max Patissier",
+          "synonyms": [
+            "Patissier"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Pablo Garcia",
+          "synonyms": [
+            "Garcia"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "tecnologia",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Contenedores",
+          "synonyms": [
+            "contenedores",
+            "kubernetes",
+            "containers",
+            "open shift",
+            "openshift"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Blockchain",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Inteligencia Artificial",
+          "synonyms": [
+            "reconocimiento de imagenes",
+            "asistente virtual",
+            "chatbot",
+            "inteligencia artificial",
+            "IA",
+            "AI",
+            "buscador cognitivo",
+            "watson"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Analytics",
+          "synonyms": [
+            "Data Analytics",
+            "analitics",
+            "analisis de datos",
+            "datos",
+            "redes sociales"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Quantum",
+          "synonyms": [
+            "cuantica",
+            "quantica"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Metodologias",
+          "synonyms": [
+            "Agile"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cloud",
+          "synonyms": [
+            "ibm cloud",
+            "nube"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Serverless",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "RedHat",
+          "synonyms": [
+            "red hat",
+            "Red-Hat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "DevOps",
+          "synonyms": [
+            "dev ops"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "IoT",
+          "synonyms": [
+            "internet of things",
+            "internet de las cosas"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "language": "es",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "skill_id": "74db8c02-0d18-46fb-887d-26ee12755bbb",
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "nodoTRUE",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Estos son los temas generales de la agenda: <br>"
+              },
+              {
+                "text": "-Inteligencia Artificial (todo referido al mundo de Watson y mas) <br>"
+              },
+              {
+                "text": "-Blockchain (descubra cómo las industrias están revolucionando los negocios con IBM Blockchain) <br>"
+              },
+              {
+                "text": "-Cloud (La nube proporciona servicio a empresas de todos los tamaños, descubra como funciona IBM Cloud junto a todas sus utilidades)<br>"
+              },
+              {
+                "text": "-Data Analytics (El análisis de datos. Las empresas pueden estar mejor equipadas para tomar decisiones estratégicas y aumentar su volumen de negocios.)<br>"
+              },
+              {
+                "text": "-IoT (El Internet de las cosas. Todo referido a la interconexión digital de objetos cotidianos con Internet)<br>"
+              },
+              {
+                "text": "-Contenedores (objetos de software virtual que incluyen todos los elementos que las aplicaciones necesitan para ejecutarse. Aprenda sobre estos y como pueden ser usados para mejorar la eficiencia de sus aplicaciones)<br>"
+              },
+              {
+                "text": "Metodologías, Cuántica y mas<br>"
+              },
+              {
+                "text": "Dime cuales son de tu interés y te diré que charlas son las mas adecuadas para ti"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1562092400743",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_1_1562083985214"
+    },
+    {
+      "type": "standard",
+      "title": "Repito_Tema",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Te muestro los temas de nuevo?"
+              },
+              {
+                "text": "1) SI"
+              },
+              {
+                "text": "2) NO"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1562083985214",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_9_1562092412060",
+      "previous_sibling": "node_2_1562097202727"
+    },
+    {
+      "type": "standard",
+      "title": "No_tema_interes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No puedo encontrar charlas según los temas que elegiste"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1562083985214",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_9_1562092412060"
+      },
+      "conditions": "true",
+      "dialog_node": "node_2_1562097202727",
+      "previous_sibling": "node_7_1562089522984"
+    },
+    {
+      "type": "standard",
+      "title": "Tema_interes",
+      "output": {
+        "action": [
+          {
+            "name": "recomendacion",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Seleccione algunas que quizás te gusten."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1562083985214",
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "@tecnologia",
+      "dialog_node": "node_7_1562089522984"
+    },
+    {
+      "type": "standard",
+      "title": "Imprimo descripcion",
+      "output": {
+        "action": [
+          {
+            "name": "showDetails",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1563299646113",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_7_1563299646113"
+    },
+    {
+      "type": "standard",
+      "title": "leerEntrada",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1562092412060",
+      "context": {
+        "confirmo": "<?input.text?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_3_1562096789192"
+    },
+    {
+      "type": "standard",
+      "title": "Seleccion usuario",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1562019190490",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_1_1563288575238"
+    },
+    {
+      "type": "standard",
+      "title": "Imprimo descripcion",
+      "output": {
+        "action": [
+          {
+            "name": "showDetails",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1563288575238",
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "true",
+      "dialog_node": "node_1_1563288858304"
+    },
+    {
+      "type": "standard",
+      "title": "Muestro_opciones",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1562089522984",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_1_1563392473253"
+    },
+    {
+      "type": "standard",
+      "title": "Imprimo descripcion",
+      "output": {
+        "action": [
+          {
+            "name": "showDetails",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1563368572596",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_2_1563368693613"
+    },
+    {
+      "type": "standard",
+      "title": "No_Confirmo",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1562096789192",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1562019190490"
+      },
+      "conditions": "$confirmo == \"2\" || $confirmo == \"No\" || $confirmo == \"NO\"",
+      "dialog_node": "node_2_1562096719828",
+      "previous_sibling": "node_1_1562096716998"
+    },
+    {
+      "type": "standard",
+      "title": "No_selecciono",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No selecciono opción. Comencemos de nuevo"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1562096789192",
+      "metadata": {},
+      "conditions": "$confirmo",
+      "dialog_node": "node_1_1562098848679",
+      "previous_sibling": "node_2_1562096719828"
+    },
+    {
+      "type": "standard",
+      "title": "confirmo",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1562096789192",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1562083985214"
+      },
+      "conditions": "$confirmo == \"1\" || $confirmo == \"Si\" || $confirmo==\"SI\"",
+      "dialog_node": "node_1_1562096716998"
+    },
+    {
+      "type": "standard",
+      "title": "Seleccion usuario",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1563297283894",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_1_1563368572596"
+    },
+    {
+      "type": "standard",
+      "title": "Imprimo_detalles",
+      "output": {
+        "action": [
+          {
+            "name": "showDetails",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1563392473253",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_3_1563393430768"
+    },
+    {
+      "type": "standard",
+      "title": "Opcion no existe",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "-"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1563288858304",
+      "metadata": {},
+      "conditions": "$opcionExiste == false",
+      "dialog_node": "node_2_1563547447869"
+    },
+    {
+      "type": "standard",
+      "title": "Seleccion usuario",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1563299646092",
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_6_1563299646113"
+    },
+    {
+      "type": "standard",
+      "title": "lista_speakers",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Veo que quieres saber información sobre los Speakers de nuestro evento "
+              },
+              {
+                "text": "Pasate por este link que ahi estan todos:<br><a href=\" https://www.ibm.com/events/uy/es/ibm-code-mvd/montevideo/\">IBM CODE DAY</a> <br>"
+              },
+              {
+                "text": "Con el nombre de alguno te puedo mostrar las charlas en las que va a participar, si me preguntas por sus charlas"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#speakers",
+      "dialog_node": "node_1_1565129483667",
+      "previous_sibling": "node_8_1562092400743"
+    },
+    {
+      "type": "standard",
+      "title": "Insultos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Acá vengo a trabajar, amigo."
+              },
+              {
+                "text": "¿Con esa boquita decís mamá?"
+              },
+              {
+                "text": "Cuidá tu lenguaje."
+              },
+              {
+                "text": "¡¡Eso decíselo al árbitro en el partido de fútbol!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Negative_Feedback",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1562021375582",
+      "previous_sibling": "node_6_1562087649099"
+    },
+    {
+      "type": "standard",
+      "title": "Saludo_final",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Nos vemos en el Code Day, si tenes dudas pregúntame. "
+              },
+              {
+                "text": "See u later alligator...  Hasta el Code Day "
+              },
+              {
+                "text": "Hasta la vista baby, aca estoy si necesitas ayuda sobre el Code Day.\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Ending",
+      "dialog_node": "node_3_1562085170675",
+      "previous_sibling": "node_5_1562022157364"
+    },
+    {
+      "type": "standard",
+      "title": "Capacidades",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Te puedo mostrar las charlas que se están dictando ahora así como también las próximas con sus respectivas fechas y horarios.  También puedo hacerte alguna recomendación sobre charlas especificas si aun no te decides, te hago un par de preguntas para conocer tus temas de interés y te indicare las mejores charlas adaptadas a esos temas."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Agent_Capabilities",
+      "dialog_node": "node_6_1562087649099",
+      "previous_sibling": "Bienvenido"
+    },
+    {
+      "type": "standard",
+      "title": "Charla_Antigua",
+      "output": {
+        "action": [
+          {
+            "name": "charlaAntigua",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Veo que quieres ver si estas a tiempo <br>\n Te muestro lo que todavía no ha comenzado en el evento"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "hora": "<? now().split(' ').get(1) ?>",
+        "fecha": "<? now().split(' ').get(0) ?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#charla_antigua",
+      "dialog_node": "node_1_1563297283894",
+      "previous_sibling": "node_1_1565129483667"
+    },
+    {
+      "type": "standard",
+      "title": "Alagos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muchas gracias!!! Me entreno día a día para brindar respuestas mejores y ser de utilidad para los que me consultan "
+              },
+              {
+                "text": "Entiendo que me estas alagando! Muchas gracias!!! Mi inteligencia mejora  con el tiempo "
+              },
+              {
+                "text": "Que lindo los alagos!!! Espero haber sido de utilidad, ¿Alguna otra pregunta? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#General_Positive_Feedback",
+      "dialog_node": "node_5_1562022157364",
+      "previous_sibling": "node_1_1562019190490"
+    },
+    {
+      "type": "standard",
+      "title": "RecomendameCharlas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Bueno veo que quieres que te recomiende una charla"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "fecha": "<? now().split(' ').get(0) ?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#Recomendacion",
+      "dialog_node": "node_8_1562092400743",
+      "previous_sibling": "node_4_1562021375582"
+    },
+    {
+      "type": "standard",
+      "title": "AgendaEntera_Hora",
+      "output": {
+        "action": [
+          {
+            "name": "callDiscovery_hora",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "fecha": "<? now().split(' ').get(0) ?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#AgendaEntera && @sys-time",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_5_1563299646092",
+      "previous_sibling": "node_1_1563297283894"
+    },
+    {
+      "type": "standard",
+      "title": "En otras cosas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "¿Me puedes hacer la pregunta de nuevo?"
+              },
+              {
+                "text": "¿Eh? Perdona, no entendí. ¿Me repetís lo mismo con otras palabras, por favor?\n "
+              },
+              {
+                "text": "Lo lamento, de verdad no logro entenderte, pero estoy aprendiendo! Podes preguntarme sobre:<br>\nHorario de las charlas<br>\nTemas de las charlas<br>\nSpeakers<br>"
+              },
+              {
+                "text": "Te pido mildis pero creo que necesitas contactarte con el mainframe:<br> eventos\\@uy.ibm.com"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "En otras cosas",
+      "previous_sibling": "node_1_1562101451363"
+    },
+    {
+      "type": "standard",
+      "title": "AgendaEntera",
+      "output": {
+        "action": [
+          {
+            "name": "callDiscovery",
+            "result_variable": "$agenda"
+          }
+        ],
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "fecha": "<? now().split(' ').get(0) ?>"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_user_input"
+      },
+      "conditions": "#AgendaEntera",
+      "dialog_node": "node_1_1562019190490",
+      "previous_sibling": "node_5_1563299646092"
+    },
+    {
+      "type": "standard",
+      "title": "Saludo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hola! Mi nombre es Ricky soy una inteligencia artificial, y lo sé. Puedo ayudarte con lo siguiente: <br>\n-Horario de las charlas <br>\n-Temas de las charlas<br>\n-Si conoces algún speaker, te puedo decir en que charla o hands on estará participando <br>\n-y, también, puedo recomendarte alguna charla si aún no sabes a cuál ir."
+              },
+              {
+                "text": "Hola! Estoy en la nube hoy. Nos vemos en el Code Day ¿A cuál charla vas a ir?"
+              },
+              {
+                "text": "Acá aprendiendo. Vos vas al Code Day?  Te puedo dar información sobre las charlas"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "hora": "<? now().split(' ').get(1) ?>",
+        "fecha": "<? now().split(' ').get(0) ?>",
+        "timezone": "America/Montevideo"
+      },
+      "metadata": {},
+      "conditions": "#General_Greetings",
+      "dialog_node": "node_1_1562101451363",
+      "previous_sibling": "node_3_1562085170675"
+    },
+    {
+      "type": "standard",
+      "title": "Bienvenido",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hola! Mi nombre es Ricky soy una inteligencia artificial, y lo sé.  Puedo ayudarte con lo siguiente: <br>\n-Horario de las charlas<br>\n-Temas de las charlas<br>\n-Speakers<br>\n-y, también, puedo recomendarte alguna charla si aún no sabes a cuál ir."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "hora": "<? now().split(' ').get(1) ?>",
+        "timezone": "America/Montevideo"
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Bienvenido"
+    }
+  ],
+  "workspace_id": "74db8c02-0d18-46fb-887d-26ee12755bbb",
+  "counterexamples": [
+    {
+      "text": "3"
+    },
+    {
+      "text": "dale y en 20 minutos?"
+    },
+    {
+      "text": "he?"
+    },
+    {
+      "text": "mejor algo de iot"
+    },
+    {
+      "text": "que dia es hoy"
+    },
+    {
+      "text": "si"
+    }
+  ],
+  "system_settings": {},
+  "learning_opt_out": false,
+  "status": "Available"
+}

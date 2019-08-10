@@ -1,0 +1,20 @@
+{
+  "titulo": "CONFERENCIA: Selección de personal con IA - Nuevas herramientas para Capital Humano.",
+  "hora": "20:30",
+  "speakers": [
+    {
+      "persona": "Pablo Garcia"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Metodologias"
+    },
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+	
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "Identificar a los candidatos que más se ajustan al perfil buscado siempre fué desafiante. Los recursos de las empresas son limitados y el tiempo que los equipos de selección pueden dedicar a realmente conocer individualmente a las personas lo es más aún. En esta charla vamos a explorar nuevas herramientas que aplican técnicas de inteligencia artificial en los procesos de evaluación y selección de personal, particulamente mostraremos como utilizamos IBM - Personality Insights para evaluar la parsonalidad de los candidatos a medida que avanzan en el proceso de selección"
+}

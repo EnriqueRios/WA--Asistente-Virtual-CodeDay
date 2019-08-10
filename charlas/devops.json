@@ -1,0 +1,19 @@
+{
+  "titulo": "DevOps en acción: CI/CD Pipelines en Openshift",
+  "hora": "20:45",
+  "speakers": [
+    {
+      "persona": "Enrique Verdes"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "DevOps"
+    },
+    {
+      "nombre": "Contenedores"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/devops-en-accion-cicd-pipelines-en-openshift-tickets-68048289265",
+  "descripcion": "CI/CD es una práctica clave para DevOps. El objetivo es mostrar como Openshift simplifica la creación y ejecución de piplelines de CI/CD. Se va a explicar las características básicas de como Openshift hace el despliegue de aplicaciones, para entender el proceso de ejecución del pipeline. Se partirá de un pipeline sencillo para una aplicación de ejemplo, que se ejecute automáticamente cuando se haga push a la rama master de un repositorio en github."
+}

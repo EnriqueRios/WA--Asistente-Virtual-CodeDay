@@ -1,0 +1,19 @@
+{
+  "titulo": "Descubriendo  el verdadero potencial del Internet de las Cosas",
+  "hora": "20:45",
+  "speakers": [
+    {
+      "persona": "Jose Panizza"
+    },
+    {
+      "persona": "Max Patissier"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "IoT"
+    }
+  ],
+  "Prerequisitos": "Cuenta FREE en IBM Cloud",
+  "descripcion": "Aprenderá como funciona la red de Sigfox que esta siendo instalada en todo el Uruguay y descubrirá el verdadero potencial del Internet de las Cosas. Luego aprenderá como conectar cualquier dispositivo Sigfox con la nube de IBM para procesar, almacenar y analizar los datos que envía utilizando Watson IoT Platform."
+}

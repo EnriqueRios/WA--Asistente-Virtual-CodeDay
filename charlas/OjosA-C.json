@@ -1,0 +1,16 @@
+{
+  "titulo": "Como prevenir accidentes de transito con IBM Watson",
+  "hora": "17:45",
+  "speakers": [
+    {
+      "persona": "Gonzalo Rodriguez"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/como-prevenir-accidentes-de-transito-con-ibm-watson-tickets-68049721549",
+  "descripcion": "El asistente aprendera sobre los conceptos claves entorno al servicio de reconocimiento de imagenes que Watson brinda, ademas de poner en practica el mismo en una aplicacion concreta mediante la potente interface grafica que nos ofrece IBM Cloud y mediante la API de este servicio en particular. "
+}

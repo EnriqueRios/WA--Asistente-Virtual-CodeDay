@@ -1,0 +1,19 @@
+{
+  "titulo": "Introduction to Kubernetes ",
+  "hora": "19:15",
+  "speakers": [
+    {
+      "persona": "Lee Zhang"
+    },
+    {
+      "persona": "Remko de Knikker"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Contenedores"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/introduction-to-kubernetes-tickets-68053829837",
+  "descripcion": "In this hands-on session, you learn \nHow to deploy an application to a Kubernetes cluster hosted within the IBM Cloud via kubectl commands \nHow to scale a deployment and safely roll out an update of your application in Kubernetes \nHow to deploy an application via configuration files instead of using the kubectl commands. The configuration file mechanism allows you to have more fine-grained control over all of resources being created within the Kubernetes cluster. \nDifficulty: Easy to Medium"
+}

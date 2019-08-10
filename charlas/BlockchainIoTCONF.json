@@ -1,0 +1,22 @@
+{
+  "titulo": "CONFERENCIA: Desde la tierra al punto de venta: Blockchain e IoT para adquisición de datos, toma de decisiones y trazabilidad de productos agropecuarios.",
+  "hora": "19:15",
+  "speakers": [
+    {
+      "persona": "Ignacio Varese Isern"
+    },
+    {
+      "persona": "Diego Súarez-Bagnasco"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Blockchain"
+    },
+    {
+      "nombre": "IoT"
+    }
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "Las tecnologías Blockchain e IoT posibilitan la obtención de datos, el registro y la toma de decisiones durante las distintas etapas por las que pasa un producto de origen agropecuario, previo a su llegada a los puntos de venta. En esta charla se expondrán aspectos generales sobre la tecnología Blockchain y sobre las herramientas Food Trust de IBM así como de soluciones de IoT para este tipo de aplicaciones. Se presentará un sistema IoT para adquisición de parámetros de interés y toma de decisiones en aplicaciones agropecuarias, aspectos generales sobre la arquitectura de la solución (HW y SW) y estado actual de desarrollo del sistema."
+}

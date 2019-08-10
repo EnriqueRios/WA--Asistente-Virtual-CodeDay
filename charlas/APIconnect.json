@@ -1,0 +1,19 @@
+{
+  "titulo": "Aprenda a gestionar el ciclo de vida de sus APIs con IBM API Connect",
+  "hora": "16:00",
+  "speakers": [
+    {
+      "persona": "Tomas Facal"
+    },
+    {
+      "persona": "Adolfo Scalabrini"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Cloud"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/aprenda-a-gestionar-el-ciclo-de-vida-de-sus-apis-con-ibm-api-connect-tickets-68056955185",
+  "descripcion": "Durante este hands-on entenderá los beneficios de gestionar sus APIs con un servicio como IBM API Connect. También aprenderá a publicar sus APIs para que sean consumidas por otros usuarios utilizando el Developer Portal. "
+}

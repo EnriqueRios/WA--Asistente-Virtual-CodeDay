@@ -1,0 +1,16 @@
+{
+  "titulo": "Practical Guide to work with Serverless",
+  "hora": "19:15",
+  "speakers": [
+    {
+      "persona": "Victor Shinya"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Serverless"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/practical-guide-to-work-with-serverless-tickets-68051099671",
+  "descripcion": "Serverless is a new way to develop solutions in the cloud. Do you know of any platform available in cloud providers? I'll show you how Apache Openwhisk and IBM Cloud Functions work and how to use it to integrate with Watson APIs, work with external dependencies, configure CI / CD, and even work with Docker containers. In the end, you will have access to some demos to better understand everything that was said. Difficulty: Medium"
+}

@@ -1,0 +1,22 @@
+{
+  "titulo": "Antes muert@ que sencill@: ¿Como crear un chatbot fabuloso?",
+  "hora": "20:45",
+  "speakers": [
+    {
+      "persona": "Tomas Facal"
+    },
+    {
+      "persona": "Alejandro Machado"
+    },
+    {
+      "persona": "Lucia Ramos"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/antes-muert-que-sencill-como-crear-un-chatbot-fabuloso-tickets-68054515889",
+  "descripcion": "Aprenda aspectos fundamentales y esenciales para su creación: Personalidad, compresión del lenguaje natural e inteligencia para responder, con un enfoque centrado en el usuario."
+}

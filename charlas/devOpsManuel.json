@@ -1,0 +1,16 @@
+{
+  "titulo": "Run Ansible from your IBM Cloud DevOps Pipelines",
+  "hora": "17:45",
+  "speakers": [
+    {
+      "persona": "Manuel Cuevas"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "DevOps"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/provisioning-docker-containers-with-ansible-tickets-68071221857",
+  "descripcion": "En este tutorial usaremos un Playbook Ansible ejecutado desde el servicio IBM Cloud Continuous Delivery para implementar una aplicación PHP de muestra. Crearemos automáticamente un delivery pipeline a partir de una tool chain. Luego usaremos Ansible para implementar una aplicación desde esta. Ansible Playbooks se puede usar para entregar aplicaciones simples, como en esta hands-on, así como una infraestructura de aplicaciones compleja. Dificultad: Facil a Media"
+}

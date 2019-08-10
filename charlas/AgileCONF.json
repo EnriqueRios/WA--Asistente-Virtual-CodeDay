@@ -1,0 +1,16 @@
+{
+  "titulo": "CONFERENCIA: Agile.. un cambio cultural en la transformación de las empresas",
+  "hora": "20:00",
+  "speakers": [
+    {
+      "persona": "Ana Spangenberg"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Metodologias"
+    }
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "Se hará hincapié en como una metodología como Agile favorece el cambio cultural de una organización, trabajando los valores y características de los equipo. Profundizaremos en la diferencia entre ser y hacer Agile."
+}

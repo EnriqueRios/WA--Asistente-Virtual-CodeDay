@@ -1,0 +1,13 @@
+{
+  "titulo": "BIENVENIDA AL EVENTO: IBM CODE DAY",
+  "hora": "17:30",
+  "speakers": [
+    {
+      "persona": "Sebastian Vergara"
+    }
+  ],
+  "tecnologías": [
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "Se dara la bienvenida al evento IBM Code Day por parte del nuevo CTO IBM Uruguay 'Sebastián Vergara'. Te esperamos "
+}

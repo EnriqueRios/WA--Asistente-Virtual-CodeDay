@@ -1,0 +1,19 @@
+{
+  "titulo": "Crear un tasador de vehículos chocados con IBM Watson Visual Recognition",
+  "hora": "19:15",
+  "speakers": [
+    {
+      "persona": "Tomas Facal"
+    },
+    {
+      "persona": "Adolfo Scalabrini"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/crear-un-tasador-de-vehiculos-chocados-con-ibm-watson-visual-recognition-tickets-68056110659",
+  "descripcion": "El asistente aprenderá a utilizar el servicio IBM Watson Visual Recognition y podrá implementar un modelo clasificador para reconocer partes dañadas de un vehículo. Se utilizará para testear el modelo tanto la interfaz gráfica de IBM Cloud como también una aplicación, desarrollada en Node.js o Java, según el interés del asistente, que consulte la API que ofrece el servicio.  Nivel de dificultad: Medio"
+}

@@ -1,0 +1,20 @@
+{
+  "titulo": "CONFERENCIA: Implicancias y consecuencias de IBM+Red Hat",
+  "hora": "17:45",
+  "speakers": [
+    {
+      "persona": "Sebastian Vergara"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Cloud"
+    },
+    {
+      "nombre": "RedHat"
+    }
+	
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "En esta charla te contamos el por qué de la 3er adquisición mas grande de la historia tecnológica, sus implicancias de negocio y tecnológicas para Red Hat, para IBM y para la comunidad“. Jim Whitehurst, CEO Red Hat expresó “Unir fuerzas con IBM le da a Red Hat la oportunidad de llevar más innovación open source a incluso muchas mas organizaciones y nos permitirá escalar para satisfacer la necesidad de soluciones de nube híbrida que brinden una verdadera elección y agilidad” Vení a entender por qué IBM es la opción para una solución multi-nube, hibrida, segura y abierta."
+}

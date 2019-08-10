@@ -1,0 +1,16 @@
+{
+  "titulo": "CONFERENCIA: Computación Cuántica: una nueva realidad",
+  "hora": "21:00",
+  "speakers": [
+    {
+      "persona": "Christopher Chancé"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Quantum"
+    }
+  ],
+  "Prerequisitos": "NA",
+  "descripcion": "No es nuevo escuchar que la tecnología crece a pasos agigantados, si comparamos el año 2019 con el año 1919, notaremos que hay inventos que hoy consideramos comunes, como es el caso de la computadora, que en aquel año (1919) era imposible que alguien pensara en tener uno de estos dispositivos para hacer casi cualquier cosa. Lo mismo sucede en la actualidad con las computadoras cuánticas, siendo las computadoras más potentes del mundo y con un paradigma diferente al de una computadora común. Muchos no se imaginan manejando una. Por eso en esta charla, los introduciremos a este nuevo mundo. Explicando sus fundamentos, diferenciándola de una computadora común, y explicando que hace IBM en el tema, incluso, probaremos una Computadora Cuántica en la charla, y estudiaremos como podemos programar una."
+}

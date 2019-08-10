@@ -1,0 +1,16 @@
+{
+  "titulo": "Introducción & Setup de cuentas Free en IBM Cloud",
+  "hora": "16:00",
+  "speakers": [
+    {
+      "persona": "Sebastian Vergara"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Cloud"
+    }
+  ],
+  "Prerequisitos":"Link https://www.eventbrite.com/e/introduccion-setup-de-cuentas-free-en-ibm-cloud-tickets-68057689381",
+  "descripcion": "Si es la primera vez creando una cuenta en IBM Cloud, te recomendamos asistir a este hands-on donde haremos una Introducción a IBM Cloud. Veremos conceptos generales, Capacidades, Servicios y Tecnologías asociadas. Te ayudaremos a tener laptop listo y configurado para que puedas participar en el resto de los hands-on sin problemas. Dificultad: Basico"
+}

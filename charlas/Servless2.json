@@ -1,0 +1,16 @@
+{
+  "titulo": "Introducción a Serverless con IBM Cloud Functions",
+  "hora": "16:00",
+  "speakers": [
+    {
+      "persona": "Victor Silva"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Serverless"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/introduccion-a-serverless-con-ibm-cloud-functions-tickets-68060010323",
+  "descripcion": "Serverless es una arquitectura que vino para quedarse, porque ofrece simplicidad en la gestión y reduce las complicaciones de la puesta en marcha de la plataforma de desarrollo. Los proveedores de nube pública ofrecen diferentes alternativas para poner en marcha nuestros proyectos, pero ¿cómo empezamos a trabajar? En la charla/guía se tratará desde el origen del concepto a los tipos de funciones que se pueden construir en las diferentes plataformas, los lenguajes soportados, casos de uso y recomendaciones para empezar a implementar IBM Cloud Functions, sin morir en el intento. Dificultad: Basico"
+}

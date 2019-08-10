@@ -1,0 +1,19 @@
+{
+  "titulo": "Introduction to Deep Learning",
+  "hora": "17:45",
+  "speakers": [
+    {
+      "persona": "Lee Zhang"
+    },
+    {
+      "persona": "Remko de Knikker"
+    }
+  ],
+  "tecnologías": [
+    {
+      "nombre": "Inteligencia Artificial"
+    }
+  ],
+  "Prerequisitos": "Link https://www.eventbrite.com/e/introduction-to-deep-learning-tickets-68042626327",
+  "descripcion": "This session will walk you through model development stages of the Deep Learning workflow. You will be exploring different ways to build deep learning models and deploying those models. By the end of the session, you should understand:\nDeveloping Deep Learning Models in Watson Studio\nThe process of implementing hyper-parameter optimization of Deep Learning models. Difficulty: Medium"
+}
