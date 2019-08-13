@@ -17,7 +17,7 @@ En este Workshop crearemos un asistente virtual capaz de responder preguntas ace
 
 # Pre- Requisitos
 
-Tener una cuenta en IBM Cloud. <a href="https://cloud.ibm.com/registration">Link para registrarse en IBM Cloud</a>
+Tener una cuenta en IBM Cloud. <a href="https://ibm.biz/Bd26aa">Link para registrarse en IBM Cloud</a>
 Tener instalado Node.js y un IDE de trabajo (preferible Visual Studio Code)
 
 # Watson Assistant Skill
